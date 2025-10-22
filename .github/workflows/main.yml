@@ -4,7 +4,7 @@ nome: CI Mentoria
 on:
   workflow_dispatch:
 
-Jobs:
+jobs:
     tests:
 
        #  [config do so] (windows/linux/mac, chrome/firefox/edge, ...)
